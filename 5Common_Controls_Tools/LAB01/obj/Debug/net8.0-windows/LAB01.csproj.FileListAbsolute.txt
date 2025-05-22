@@ -1,0 +1,16 @@
+C:\Users\phuth\source\repos\LAB01\LAB01\bin\Debug\net8.0-windows\LAB01.exe
+C:\Users\phuth\source\repos\LAB01\LAB01\bin\Debug\net8.0-windows\LAB01.deps.json
+C:\Users\phuth\source\repos\LAB01\LAB01\bin\Debug\net8.0-windows\LAB01.runtimeconfig.json
+C:\Users\phuth\source\repos\LAB01\LAB01\bin\Debug\net8.0-windows\LAB01.dll
+C:\Users\phuth\source\repos\LAB01\LAB01\bin\Debug\net8.0-windows\LAB01.pdb
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.Form1.resources
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.csproj.GenerateResource.cache
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.AssemblyInfoInputs.cache
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.AssemblyInfo.cs
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.csproj.CoreCompileInputs.cache
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.dll
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\refint\LAB01.dll
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.pdb
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\LAB01.genruntimeconfig.cache
+C:\Users\phuth\source\repos\LAB01\LAB01\obj\Debug\net8.0-windows\ref\LAB01.dll
