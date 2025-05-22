@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Getter_Setter/1.0.0": {
+        "runtime": {
+          "Getter_Setter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Getter_Setter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

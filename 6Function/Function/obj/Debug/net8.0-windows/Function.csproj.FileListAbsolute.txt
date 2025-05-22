@@ -1,0 +1,32 @@
+C:\Users\phuth\Desktop\LAB C#\Function\Function\bin\Debug\net8.0-windows\Function.exe
+C:\Users\phuth\Desktop\LAB C#\Function\Function\bin\Debug\net8.0-windows\Function.deps.json
+C:\Users\phuth\Desktop\LAB C#\Function\Function\bin\Debug\net8.0-windows\Function.runtimeconfig.json
+C:\Users\phuth\Desktop\LAB C#\Function\Function\bin\Debug\net8.0-windows\Function.dll
+C:\Users\phuth\Desktop\LAB C#\Function\Function\bin\Debug\net8.0-windows\Function.pdb
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.Form1.resources
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.csproj.GenerateResource.cache
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.AssemblyInfoInputs.cache
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.AssemblyInfo.cs
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.csproj.CoreCompileInputs.cache
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.dll
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\refint\Function.dll
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.pdb
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\Function.genruntimeconfig.cache
+C:\Users\phuth\Desktop\LAB C#\Function\Function\obj\Debug\net8.0-windows\ref\Function.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\bin\Debug\net8.0-windows\Function.exe
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\bin\Debug\net8.0-windows\Function.deps.json
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\bin\Debug\net8.0-windows\Function.runtimeconfig.json
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\bin\Debug\net8.0-windows\Function.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\bin\Debug\net8.0-windows\Function.pdb
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.Form1.resources
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.csproj.GenerateResource.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.AssemblyInfoInputs.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.AssemblyInfo.cs
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.csproj.CoreCompileInputs.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\refint\Function.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.pdb
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\Function.genruntimeconfig.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\Function\Function\obj\Debug\net8.0-windows\ref\Function.dll

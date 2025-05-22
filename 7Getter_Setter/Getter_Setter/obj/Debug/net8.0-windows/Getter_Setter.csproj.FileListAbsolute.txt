@@ -1,0 +1,17 @@
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\bin\Debug\net8.0-windows\Getter_Setter.exe
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\bin\Debug\net8.0-windows\Getter_Setter.deps.json
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\bin\Debug\net8.0-windows\Getter_Setter.runtimeconfig.json
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\bin\Debug\net8.0-windows\Getter_Setter.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\bin\Debug\net8.0-windows\Getter_Setter.pdb
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.Form1.resources
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.Form2.resources
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.csproj.GenerateResource.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.AssemblyInfoInputs.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.AssemblyInfo.cs
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.csproj.CoreCompileInputs.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\refint\Getter_Setter.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.pdb
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\Getter_Setter.genruntimeconfig.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\Getter_Setter\Getter_Setter\obj\Debug\net8.0-windows\ref\Getter_Setter.dll
