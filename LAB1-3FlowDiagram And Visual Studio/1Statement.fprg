@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="LAB00"/>
+        <attribute name="authors" value="phuth"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2568-05-13 12:43:01 PM"/>
+        <attribute name="created" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0xMzsxMjozMzoxNiBQTTsyOTIy"/>
+        <attribute name="edited" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0xMzsxMjo0MzowMSBQTTs0OzMwMjg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="studentID, name, sername, Massage" type="String" array="False" size=""/>
+            <assign variable="studentID" expression="&quot;6211850006&quot;"/>
+            <assign variable="name" expression="&quot;Phuthanet&quot;"/>
+            <assign variable="sername" expression="&quot;Mekpayom&quot;"/>
+            <assign variable="Massage" expression="studentID&amp;&quot; &quot;&amp;name&amp;&quot; &quot;&amp;sername"/>
+            <output expression="&quot;Massage :&quot;&amp;Massage" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

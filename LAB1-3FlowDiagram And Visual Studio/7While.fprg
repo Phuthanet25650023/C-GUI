@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="7While"/>
+        <attribute name="authors" value="phuth"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2568-05-22 08:36:46 AM"/>
+        <attribute name="created" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0yMjswODozNDoyMCBBTTsyOTA4"/>
+        <attribute name="edited" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0yMjswODozNjo0NiBBTTsxOzMwMjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="text" type="String" array="False" size=""/>
+            <assign variable="text" expression="&quot;TEST&quot;"/>
+            <while expression="text!=&quot;e&quot;">
+                <output expression="&quot;Enter Data (Enter e to Exit):&quot;" newline="True"/>
+                <input variable="text"/>
+            </while>
+            <output expression="&quot;End&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

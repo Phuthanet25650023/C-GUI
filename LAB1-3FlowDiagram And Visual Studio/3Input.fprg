@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="LAB00"/>
+        <attribute name="authors" value="Elite_Ultimate"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2568-05-15 03:50:17 PM"/>
+        <attribute name="created" value="RWxpdGVfVWx0aW1hdGU7RUxJVEUtVUxUSU1BVEU7MjU2OC0wNS0xNTswMzo0Mjo0MyBQTTszNzUy"/>
+        <attribute name="edited" value="RWxpdGVfVWx0aW1hdGU7RUxJVEUtVUxUSU1BVEU7MjU2OC0wNS0xNTswMzo1MDoxNyBQTTsxOzM4NjA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Number" type="Integer" array="False" size=""/>
+            <declare name="RealNumber" type="Real" array="False" size=""/>
+            <declare name="Text" type="String" array="False" size=""/>
+            <output expression="&quot;Enter Your Name :&quot;" newline="True"/>
+            <input variable="Text"/>
+            <output expression="&quot;Enter Your Weight(Ex 64):&quot;" newline="True"/>
+            <input variable="Number"/>
+            <output expression="&quot;Enter height your (Ex 160.5):&quot;" newline="True"/>
+            <input variable="RealNumber"/>
+        </body>
+    </function>
+</flowgorithm>

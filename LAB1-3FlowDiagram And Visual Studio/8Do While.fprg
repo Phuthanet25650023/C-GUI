@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Do While"/>
+        <attribute name="authors" value="phuth"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2568-05-22 08:33:20 AM"/>
+        <attribute name="created" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0yMjswODoyODozNSBBTTsyOTE3"/>
+        <attribute name="edited" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0yMjswODozMzoyMCBBTTsyOzMwMTY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="text" type="String" array="False" size=""/>
+            <declare name="status" type="Boolean" array="False" size=""/>
+            <assign variable="status" expression="True"/>
+            <do expression="status">
+                <output expression="&quot;Enter Data(Exit Enter exit):&quot;" newline="True"/>
+                <input variable="text"/>
+                <if expression="text==&quot;e&quot;">
+                    <then>
+                        <assign variable="status" expression="False"/>
+                    </then>
+                    <else>
+                        <output expression="&quot;Text : &quot;&amp;text" newline="True"/>
+                    </else>
+                </if>
+            </do>
+            <output expression="&quot;End&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="LAB01"/>
+        <attribute name="authors" value="phuth"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2568-05-13 12:33:08 PM"/>
+        <attribute name="created" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0xMzsxMjoxMjowMSBQTTsyOTEz"/>
+        <attribute name="edited" value="cGh1dGg7RUxJVEVfVUxUSU1BVEU7MjU2OC0wNS0xMzsxMjozMzowOCBQTTsyOzMwMzI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Text" type="String" array="False" size=""/>
+            <declare name="Number" type="Integer" array="False" size=""/>
+            <declare name="RealNumber" type="Real" array="False" size=""/>
+            <declare name="Status" type="Boolean" array="False" size=""/>
+            <output expression="&quot;Enter Data In Text:&quot;" newline="True"/>
+            <input variable="Text"/>
+            <output expression="&quot;Enter Data In Number:&quot;" newline="True"/>
+            <input variable="Number"/>
+            <if expression="Number&lt;10">
+                <then>
+                    <output expression="&quot;Text: &quot;&amp;Text" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Number&lt;10&quot;" newline="True"/>
+                </else>
+            </if>
+            <output expression="&quot;Enter Data In RealNumber:&quot;" newline="True"/>
+            <input variable="RealNumber"/>
+            <if expression="Number&gt;=RealNumber">
+                <then>
+                    <assign variable="Status" expression="True"/>
+                    <output expression="&quot;Status:&quot;&amp;Status" newline="True"/>
+                </then>
+                <else>
+                    <assign variable="Status" expression="False"/>
+                    <output expression="&quot;Status:&quot;&amp;Status" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
