@@ -1,0 +1,17 @@
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\bin\Debug\net8.0-windows\LOGIN.exe
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\bin\Debug\net8.0-windows\LOGIN.deps.json
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\bin\Debug\net8.0-windows\LOGIN.runtimeconfig.json
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\bin\Debug\net8.0-windows\LOGIN.dll
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\bin\Debug\net8.0-windows\LOGIN.pdb
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.csproj.GenerateResource.cache
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.AssemblyInfoInputs.cache
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.AssemblyInfo.cs
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.dll
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\refint\LOGIN.dll
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.pdb
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\LOGIN.genruntimeconfig.cache
+C:\Users\phuth\Desktop\LAB C#\Transfer_Data_Form_TO_Form\WinFormsApp1\obj\Debug\net8.0-windows\ref\LOGIN.dll
