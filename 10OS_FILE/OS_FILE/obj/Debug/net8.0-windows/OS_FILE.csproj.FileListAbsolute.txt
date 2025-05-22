@@ -1,0 +1,69 @@
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.exe
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.deps.json
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.runtimeconfig.json
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.pdb
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.Form1.resources
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.GenerateResource.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.AssemblyInfoInputs.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.AssemblyInfo.cs
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.CoreCompileInputs.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\refint\OS_FILE.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.pdb
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.genruntimeconfig.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\ref\OS_FILE.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.AssemblyReference.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.Up2Date
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.exe
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.deps.json
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.runtimeconfig.json
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.pdb
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.AssemblyReference.cache
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.Form1.resources
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.GenerateResource.cache
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.AssemblyInfoInputs.cache
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.AssemblyInfo.cs
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.CoreCompileInputs.cache
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.Up2Date
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\refint\OS_FILE.dll
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.pdb
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.genruntimeconfig.cache
+C:\Users\phuth\Desktop\OS_FILE\OS_FILE\obj\Debug\net8.0-windows\ref\OS_FILE.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.exe
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.deps.json
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.runtimeconfig.json
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\OS_FILE.pdb
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.AssemblyReference.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.Form1.resources
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.GenerateResource.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.AssemblyInfoInputs.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.AssemblyInfo.cs
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.CoreCompileInputs.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.csproj.Up2Date
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\refint\OS_FILE.dll
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.pdb
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\OS_FILE.genruntimeconfig.cache
+C:\Users\phuth\Desktop\LAB1-2568\LAB C# GUI\10OS_FILE\OS_FILE\obj\Debug\net8.0-windows\ref\OS_FILE.dll
