@@ -1,0 +1,16 @@
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\SerialPort.Form1.resources
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Elite_Ultimate\Desktop\LAB C# GUI\SerialPort\SerialPort\obj\Debug\net8.0-windows\ref\Server.dll
