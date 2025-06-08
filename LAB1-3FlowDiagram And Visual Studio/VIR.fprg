@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="VIR"/>
+        <attribute name="authors" value="Elite_Ultimate"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2568-06-08 08:45:04 AM"/>
+        <attribute name="created" value="RWxpdGVfVWx0aW1hdGU7RUxJVEUtVUxUSU1BVEU7MjU2OC0wNi0wODswNzowNTozMCBBTTszNzM5"/>
+        <attribute name="edited" value="RWxpdGVfVWx0aW1hdGU7RUxJVEUtVUxUSU1BVEU7MjU2OC0wNi0wODswODo0NTowNCBBTTsyOzM4NTQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="volt, current, resistor, answer" type="Real" array="False" size=""/>
+            <declare name="Status" type="Boolean" array="False" size=""/>
+            <declare name="text" type="String" array="False" size=""/>
+            <assign variable="Status" expression="True"/>
+            <while expression="Status">
+                <output expression="" newline="True"/>
+                <input variable=""/>
+                <output expression="" newline="True"/>
+                <input variable=""/>
+                <output expression="" newline="True"/>
+                <input variable=""/>
+                <if expression="volt==0&amp;&amp;current&gt;0&amp;&amp;resistor&gt;0">
+                    <then>
+                        <assign variable="answer" expression="current*resistor"/>
+                        <output expression="&quot;Volt =&quot;&amp;answer" newline="True"/>
+                    </then>
+                    <else>
+                        <if expression="">
+                            <then>
+                                <assign variable="" expression="volt/resistor"/>
+                                <output expression="" newline="True"/>
+                            </then>
+                            <else>
+                                <if expression="">
+                                    <then>
+                                        <assign variable="" expression=""/>
+                                        <output expression="" newline="True"/>
+                                    </then>
+                                    <else>
+                                        <output expression="&quot;Error&quot;" newline="True"/>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+                <output expression="&quot;E exit&quot;" newline="True"/>
+                <input variable="text"/>
+                <if expression="text==&quot;E&quot;">
+                    <then>
+                        <assign variable="Status" expression="False"/>
+                    </then>
+                    <else/>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
